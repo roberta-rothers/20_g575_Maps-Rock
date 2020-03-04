@@ -12,5 +12,6 @@
     1. Representation
     2. Interaction
         * Sequence
+        * Search
 3. Wireframes
     1. ![Home Wireframe](/img/wireframe1.PNG)
